@@ -1,7 +1,7 @@
 Flask-Cors
-flask
+Flask
 pymongo
-bson
 flask_mail
-secrets
 bcrypt
+pyotp
+gunicorn

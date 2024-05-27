@@ -1,59 +1,92 @@
-import React, { useState } from 'react';
-import { Link, useNavigate } from 'react-router-dom';
+import React from 'react';
+import {useState} from 'react'
+import {Link,useNavigate} from 'react-router-dom';
+import { useDispatch, useSelector } from 'react-redux';
+import { signInStart,signInSuccess,signInFailure } from '../redux/user/userSlice';
 import { LuEye, LuEyeOff } from "react-icons/lu";
-import axios from 'axios';
+import { bouncy } from 'ldrs'
+import Navbar from '../components/Navbar';
+import Footer from '../components/Footer';
+import Img from '../assets/loginsignup/welcomeback.png'
+bouncy.register()
 
-import { infinity } from 'ldrs'
-
-infinity.register()
-
-
-
-export default function SignIn() {
-  const navigate = useNavigate();
-  const [email, setEmail] = useState('');
-  const [password, setPassword] = useState('');
-  const [error, setError] = useState('');
+export default function Signin() {
   const [loading, setLoading] = useState(false);
+  // const [error, setError] = useState(null);
+  const {loding,error}=useSelector((state)=>state.user);
+  const navigate = useNavigate();
+  const dispatch =useDispatch()
   const [showPassword, setShowPassword] = useState(false);
+  
 
-  const handleSubmit = async (event) => {
-    event.preventDefault();
-    setLoading(true); // Set loading state to true when the request starts
-    try {
-      const response = await axios.post('http://localhost:5000/api/signin', { email, password });
-      setLoading(false); // Set loading state to false when the request completes
-      if (response.data === 'False') {
-        setError('Invalid credentials');
+  const [state, setstate] = useState({});
+  const Session= (e) => {
+    // console.log("this is not good dude")
+
+    setstate({
+        ...state,
+        [e.target.id]:e.target.value,
+      });
+  };
+
+  console.log(state)
+
+const submit = async (e) => {
+  e.preventDefault();
+  setLoading(true);
+
+  try {
+    dispatch(signInStart());
+    const res = await fetch('http://localhost:5000/api/signin', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+      },
+      body: JSON.stringify(state),
+    });
+
+    if (!res.ok) {
+      const error = await res.json();
+      if (res.status === 404) {
+        // Handle "User not found" error
+        dispatch(signInFailure(error.message));
       } else {
-        setError('');
-        navigate('/');
+        // Handle other errors
+        throw new Error(error.message);
       }
-    } catch (error) {
-      setLoading(false); // Set loading state to false if there's an error
-      setError('Invalid credentials');
+      setLoading(false); // Set loading to false in case of error
+      return;
     }
-  };
 
-  const handleEmailChange = (event) => {
-    setEmail(event.target.value);
-  };
+    const data = await res.json();
+    dispatch(signInSuccess(data));
+    navigate('/');
+  } catch (error) {
+    setLoading(false);
+    dispatch(signInFailure(error.message));
+  }
+};
 
-  const handlePasswordChange = (event) => {
-    setPassword(event.target.value);
-  };
 
   const toggleShowPassword = () => {
     setShowPassword(!showPassword);
   };
 
   return (
-    <div className="min-h-screen flex items-center justify-center">
-      <div className="bg-white shadow-md rounded px-8 pt-6 pb-8 mb-4 flex flex-col w-full max-w-md">
+    <>
+    <Navbar />
+    
+    <div className="min-h-screen flex items-center justify-center bg-neutral-50">
+
+    <div className="white  rounded px-8 pt-6 pb-8 mb-4 w-full max-w-md h-96">
+    <img src={Img} alt="Description of the image" className='h-full w-full' />
+    </div>
+
+      <div className="white  rounded px-8 pt-6 pb-8 mb-4 flex flex-col w-full max-w-md">
         <div className="mb-4">
           <h1 className="text-center text-xl font-bold">Sign in</h1>
         </div>
-        <form onSubmit={handleSubmit}>
+        <form onSubmit={submit}>
           <div className="mb-4">
             <label htmlFor="email" className="block text-gray-700 text-sm font-bold mb-2">
               Email Address
@@ -62,8 +95,7 @@ export default function SignIn() {
               type="email"
               id="email"
               name="email"
-              value={email}
-              onChange={handleEmailChange}
+              onChange={Session}
               className="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline"
               autoComplete="email"
               autoFocus
@@ -78,8 +110,7 @@ export default function SignIn() {
               type={showPassword ? 'text' : 'password'}
               id="password"
               name="password"
-              value={password}
-              onChange={handlePasswordChange}
+              onChange={Session}
               className="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline pr-10"
               autoComplete="current-password"
               required
@@ -107,14 +138,14 @@ export default function SignIn() {
             {loading ? (
               <div className="text-center ">
                 {/* // Default values shown  https://uiball.com/ldrs/ */}
-                <l-infinity
-                  size="55"
-                  stroke="4"
-                  stroke-length="0.15"
-                  bg-opacity="0.1"
-                  speed="1.3" 
-                  color="black" 
-                ></l-infinity>
+
+                  <l-bouncy
+                    size="45"
+                    speed="1.75" 
+                    color="blue" 
+                  ></l-bouncy>
+
+
               </div>
             ) : (
               error && <p className="text-sm text-red-500">{error}</p>
@@ -141,5 +172,7 @@ export default function SignIn() {
         </div>
       </div>
     </div>
+    <Footer />
+    </>
   );
 }

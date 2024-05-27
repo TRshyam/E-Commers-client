@@ -62,7 +62,7 @@
     font-size: 0.7em;
     font-weight: 600;
     z-index: 1;
-    animation: moveLeftToRight 4s alternate;
+    animation: moveLeftToRight 3s alternate;
 
 }
 
@@ -73,20 +73,27 @@
     font-size: 2.5em;
     font-weight: 300;
     z-index: 9999;
-    animation: moveLeftToRight 5s forwards;
+    animation: moveLeftToRight 4s forwards;
     overflow: hidden;
 
 }
-
-.CollectionsBanner .FirstBanner button {
+.CollectionsBanner .FirstBanner .LinkTag{
     position: absolute;
-    top: 80%;
+    top: 200px;
     left: calc(8% - 20px);
-    font-size: 1em;
-    font-weight: 200;
+    display: relative;
     width: 50%;
     height: 50px;
-    background-color: black;
+}
+
+.CollectionsBanner .FirstBanner button {
+    width: 100%;
+    height: 100%;
+    font-size: 1em;
+    font-weight: 200;
+    
+    
+    background-color:black;
     color: white;
     border-radius: 50px;
     display: flex;
@@ -97,9 +104,10 @@
     position: relative;
     padding-right: 10px;
     z-index: 1;
-    animation: moveLeftToRight 4s;
+    animation: moveLeftToRight 2.5s;
 
 }
+
 
 .RightArrow {
     position: absolute;
@@ -139,15 +147,20 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    background-color: white;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
     border-radius: 15px;
-
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
 
 }
+.CollectionsBanner .SubBanner:hover {
+    transform: scale(1.03); /* Reduce the size by 5% when hovering */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3); /* Add a box shadow with a slight blur and transparency */
+  }
 
 .CollectionsBanner .SubBanner img {
-    width: 180px;
-    height: auto;
+
+    object-fit: fill;
 }
 
 .CollectionsBanner .NextButton {
@@ -201,8 +214,8 @@
 
     }
 
-    .CollectionsBanner .FirstBanner button {
-        top: 85%;
+    .CollectionsBanner .FirstBanner .LinkTag {
+        top: 250px;
         font-size: 1em;
         font-weight: 200;
         width: 22vw;
@@ -227,18 +240,29 @@
     }
 
     #RemovalImage1 {
-
         display: none;
     }
 }
 
-@media (max-width : 650px) {
+@media (max-width : 800px) {
     #RemovalImage2 {
         display: none;
     }
 }
 
-@media (max-width : 650px) {
+@media (max-width : 700px) {
+    #RemovalImage2{
+        display: none;
+    }
+}
+
+@media (max-width : 700px) {
+    .CollectionsBanner .SubBanner {
+        display: none;
+    }
+}
+
+@media (max-width : 600px) {
 
     .CollectionsBanner {
         padding: 0 20px;
@@ -252,7 +276,7 @@
     }
 
     .CollectionsBanner .FirstBanner h2 {
-        left: 5%;
+        left: 8%;
         top: 8%;
 
         z-index: 1;
@@ -260,20 +284,20 @@
     }
 
     .CollectionsBanner .FirstBanner h1 {
-        left: 5%;
+        left: 8%;
         top: calc(10% + 5%);
         font-size: 3vh;
         z-index: 9999;
 
     }
 
-    .CollectionsBanner .FirstBanner button {
-        left: 0%;
+    .CollectionsBanner .FirstBanner .LinkTag {
+        left: 5%;
         font-size: 3vw;
         width: 40%;
         padding-right: 15px;
         margin: 0;
-        top: 80%;
+        top: 250px;
 
         z-index: 1;
 
@@ -300,6 +324,8 @@
     .CollectionsBanner .NextButton {
         display: none;
     }
+
+
 }
 
 

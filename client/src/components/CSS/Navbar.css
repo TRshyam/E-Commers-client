@@ -9,6 +9,14 @@
     background-color: white;
     z-index: 1000;
 }
+.Linkk:hover{
+    color: rgba(59, 130, 246);
+    
+}
+.Linkk:hover .arr{
+    transform: rotate(180deg);
+}
+
 
 .NavBar.fixed {
     position: fixed;
@@ -70,7 +78,11 @@
 }
 
 .NavIcons a {
+    padding: 2px;
     font-size: 1.5em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 @media (max-width: 680px) {
@@ -79,15 +91,16 @@
         justify-content: space-around;
     }
     .Logo {
-        font-size: 1.4em;
-        margin-left: 3%;
+        font-size: 1.2em;
+        margin-left: 0;
         width: auto;
+        padding: 0;
     }
 
     .NavIcons {
         position: relative;
         left: 0;
-        gap: vw;
+        gap: 2vw;
     }
 
     #ProductSearch{
@@ -97,4 +110,8 @@
     .NavIcons button{
         width: auto;
     }
+}
+
+.BsBoxSeam {
+    font-size: 0.7em;
 }

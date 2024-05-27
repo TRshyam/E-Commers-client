@@ -1,0 +1,626 @@
+{
+    "product_data": {
+        "ad1": {
+            "_id": "ad1",
+            "content": {
+                "subtitle": "Work better, together",
+                "title": "Get 25% off on Electronics"
+            },
+            "img": "banner1.png",
+            "From": "regal-yellow-ad",
+            "To": "light-blue-ad",
+            "category": "Electronics",
+            "cardType": "Ad"
+        },
+        "ad2": {
+            "_id": "ad2",
+            "content": {
+                "subtitle": "Choose smart, Be smart",
+                "title": "Get 12% off on Appliances"
+            },
+            "img": "appliances_ad.png",
+            "From": "bg-slate-600",
+            "To": "bg-slate-100",
+            "category": "Appliance",
+            "cardType": "Ad"
+        },
+        "ad3": {
+            "_id": "ad3",
+            "content": {
+                "subtitle": "Work better, together",
+                "title": "Get 25% off on Acmesystems"
+            },
+            "img": "clothing_ad.png",
+            "From": "bg-slate-600",
+            "To": "bg-slate-100",
+            "category": "Clothing",
+            "cardType": "Ad"
+        },
+        "pd992856d398": {
+            "_id": "pd992856d398",
+            "product_name": "ewadftefwqa",
+            "category": "Electronics",
+            "cardType": "item",
+            "details": {
+                "product_FullName": "SAMSUNG Galaxy Z Flip3 5G (Phantom Black, 128 GB)  (8 GB RAM)",
+                "brand": "SAMSUNG",
+                "types": "Mobile",
+                "images": [
+                    "pd992856d398_pulse-17-b13vgk-252in-gaming-laptop-msi-original-imagmmhkp2vsrwex.jpg",
+                    "pd992856d398_pulse-17-b13vgk-252in-gaming-laptop-msi-original-imagmmhkrymqahgn.jpg",
+                    "pd992856d398_pulse-17-b13vgk-252in-gaming-laptop-msi-original-imagmmhkjsapmfd3.jpg",
+                    "pd992856d398_galaxy-z-flip3-5g-sm-f711bzeeinu-samsung-original-imag662a4c5myzcj.jpg"
+                ],
+                "price": "50000",
+                "discount": "40",
+                "highlights": "[\"ehrtyg rt \",\"gdgg\",\" asdfga\",\"g rg gg arg \"]",
+                "description": "egraggs g aergedsgg sggsgsa",
+                "specifications": "[{\"key\":\"General\",\"values\":[{\"subKey\":\"a grsgrsg s\",\"subValue\":\"grs gerwag \"},{\"subKey\":\"raergadsrgasgasg\",\"subValue\":\"sagasg asrg \"}]},{\"key\":\"aerg taegaer\",\"values\":[{\"subKey\":\"aaer gasg as\",\"subValue\":\"gasewg asga\"}]}]"
+            }
+        },
+        "pd880b9fba07": {
+            "_id": "pd880b9fba07",
+            "product_name": " Galaxy Z Flip3 ",
+            "category": "Electronics",
+            "cardType": "item",
+            "details": {
+                "product_FullName": "SAMSUNG Galaxy Z Flip3 5G (Phantom Black, 128 GB)  (8 GB RAM)",
+                "brand": "",
+                "types": "Mobile",
+                "images": [
+                    "pd880b9fba07_-original-imagybevjjaghqug.jpg",
+                    "pd880b9fba07_-original-imagybeven34uyhf.jpg",
+                    "pd880b9fba07_-original-imagybevaztudgjw.jpg",
+                    "pd880b9fba07_-original-imagy0001.jpg",
+                    "pd880b9fba07_mgyn3hn-a-apple-original-imafyhgzchjwpzyh.jpg"
+                ],
+                "price": "45999",
+                "discount": "52",
+                "highlights": "[\"8 GB RAM | 128 GB ROM \",\"17.02 cm (6.7 inch) Full HD+ Display\",\"12MP + 12MP | 10MP Front Camera\",\"3300 mAh Lithium-ion Battery\",\"Qualcomm Snapdragon 888 Octa-Core Processor\"]",
+                "description": "Whether you want to fold it into your pocket, put it into your purse, or slip it into your jeans this Samsung Galaxy Z Flip 3 5G lets you do all of it with ease. This smartphone comes with a 10.72 cm (4.2) display so that you can not only enjoy immersive visuals on a widescreen but also can conveniently fit it in your pocket. Also, you can check your messages, click photos, play music and do more without opening your phone, thanks to the 4.82 cm (1.9) Cover Screen display. Moreover, this smartphone comes with a Flex Mode Camera so that you can capture hands-free selfies on the cover screen. All you have to do is, adjust the angle and wait for hands-free selfies. Thanks to the waterproof design, you don't have to worry about spills and splashes damaging your phone. Lastly, you can enjoy storing photos and videos as this phone comes with up to 128 GB of storage, thus ensuring plenty of space.",
+                "specifications": "[{\"key\":\"General\",\"values\":[{\"subKey\":\"In The Box\",\"subValue\":\"Handset, Non-removable Battery Included, Data Cable (C-to-C), Ejection Pin, Quick Start Guide, Protective Vinyl, Protective Films (Main Display)\"},{\"subKey\":\"Model Number\",\"subValue\":\"SM-F711BZKAINU|SM-F711BZKBINU|SM-F711BZKAINU|SM-F711BZKBINS\"}]},{\"key\":\" gyjjt \",\"values\":[{\"subKey\":\"tjtj \",\"subValue\":\" gjj t\"},{\"subKey\":\"tyjt djj j dtyj dty\",\"subValue\":\"y tjd tuyi 6e7iie67 \"}]}]"
+            }
+        },
+        "pd5662dc50da": {
+            "_id": "pd5662dc50da",
+            "product_name": "CMF Buds Pro",
+            "category": "Electronics",
+            "cardType": "item",
+            "details": {
+                "product_FullName": "CMF by Nothing Buds Pro with 45 dB ANC, Ultra Bass Technology & upto 39 hours of battery life Bluetooth Headset  (Dark Grey, True Wireless)",
+                "brand": "",
+                "types": "Headphone",
+                "images": [
+                    "pd5662dc50da_buds-pro-cmf-by-nothing-original-imagtnz6hhz7fyb3.jpg",
+                    "pd5662dc50da_buds-pro-cmf-by-nothing-original-imagtnz6ce6pxjzh.jpg",
+                    "pd5662dc50da_buds-pro-cmf-by-nothing-original-imagtnz6ahjjg2zr.jpeg",
+                    "pd5662dc50da_buds-pro-cmf-by-nothing-original-imagtnz6jb7z5dcw.jpeg"
+                ],
+                "price": "2499",
+                "discount": "44",
+                "highlights": "[\"Battery life: 39 Hrs\",\"45db Hybrid Noise cancellation\",\"10mm Dynamic bass boost\",\"upto 11 hours of non stop music per charge\",\"10 minutes of charging= 3.7 hours of playback\",\"6HD Mics With Clear Voice Technology\"]",
+                "description": "Silence meets power. Silence the distractions. CMF Buds Pro takes 45 dB active noise reduction to another level with a bandwidth of up to 5000 Hz. With a wider frequency range, more types of noises can be eliminated. So even on busy commutes and in noisy office spaces, you can fully immerse yourself in your favorite audio. We built Buds Pro with a special wind-through structure that features two holes at the top of the stem. Combined with advanced wind noise reducing algorithms delivering uninterrupted conversations and immersive music experience. With 6 HD microphones and Clear Voice Technology that's been trained on 20,000,000+ noise models, enjoy the phone calls with next-level clarity. All about the bass. We developed CMF Buds Pro to transform the bass experience by ensuring hardware and software work together to enhance sound in real-time. Starting with hardware, the custom 10 mm driver features a premium LCP + PU diaphragm for high elasticity and more precision. The soft material of the PU is what allows the bass sound to come through purer and more accurate. We also gave the rear chamber an exhaust vent to make the mid-low frequencies fuller, the high frequencies clearer and low frequencies extra powerful. CMF Buds Pro features an intelligent bass enhancement algorithm that enhances the sound of bass in real-time. It detects music signals as you're listening and presents a clearer bass effect. You can customise sound yourself too with the Nothing X app. Just connect your CMF Buds Pro and use the Equaliser to adjust the sound of bass and treble. We designed CMF Buds Pro to support you throughout the entire day. Enjoy 11 hours of non-stop music playback on a single charge or extend your listening time to up to 39 hours by using the earbuds with the charging case (with ANC is turned off). Compatible with Fast Charge for quick and seamless power-ups. Get 5 hours of listening after just 10 minutes of charging.\r\n",
+                "specifications": "[{\"key\":\"General\",\"values\":[{\"subKey\":\"Model Name\",\"subValue\":\"Buds (Pro)\"},{\"subKey\":\"Color\",\"subValue\":\"Dark Grey\"},{\"subKey\":\"Headphone Type\",\"subValue\":\"True Wireless\"},{\"subKey\":\"Inline Remote\",\"subValue\":\"No\"},{\"subKey\":\"Sales Package\",\"subValue\":\"1 Pair of Earbuds, USB Cable, User Manual, Safety and Warranty Card\"}]},{\"key\":\"Product Details\",\"values\":[{\"subKey\":\"Deep Bass\",\"subValue\":\"Yes\"},{\"subKey\":\"Water Resistant\",\"subValue\":\"Yes\"},{\"subKey\":\"With Microphone\",\"subValue\":\"Yes\"}]},{\"key\":\"Connectivity Features\",\"values\":[{\"subKey\":\"Bluetooth Version\",\"subValue\":\"5.3\"},{\"subKey\":\"Battery Life\",\"subValue\":\"39 Hrs\"}]},{\"key\":\"Warranty\",\"values\":[{\"subKey\":\"Domestic Warranty\",\"subValue\":\"1 Year \"},{\"subKey\":\"Warranty Summary\",\"subValue\":\"1 Year Warranty\"},{\"subKey\":\"Warranty Service Type\",\"subValue\":\"support.india@cmf.tech 18002021232\"},{\"subKey\":\"Covered in Warranty\",\"subValue\":\"Manufacturing Defects\"},{\"subKey\":\"Not Covered in Warranty\",\"subValue\":\"Physical Damages\"}]}]"
+            }
+        },
+        "pd4efc47c9f9": {
+            "_id": "pd4efc47c9f9",
+            "product_name": "OPPO Find N3 Flip",
+            "category": "Electronics",
+            "cardType": "item",
+            "details": {
+                "product_FullName": "OPPO Find N3 Flip (Cream Gold, 256 GB)  (12 GB RAM)#JustHere",
+                "brand": "Oppo",
+                "types": "Mobile",
+                "images": [
+                    "pd4efc47c9f9_-original-imagu8h9bqnjsdnz.jpeg",
+                    "pd4efc47c9f9_-original-imagu8h94uxcrdwv.jpeg",
+                    "pd4efc47c9f9_-original-imagu8h9bnfezjut.jpeg",
+                    "pd4efc47c9f9_-original-imagu8h9nptjce7c.jpeg",
+                    "pd4efc47c9f9_-original-imagu8h9y5mcyges.jpeg"
+                ],
+                "price": "99999",
+                "discount": "10",
+                "highlights": "[\"12 GB RAM | 256 GB ROM\",\"17.27 cm (6.8 inch) Full HD Display\",\"50MP + 48MP + 32MP | 32MP Front Camera\",\"4300 mAh Battery\",\"Mediatek Dimensity 9200 Processor\"]",
+                "description": "Get ready to embark on a journey into the future of mobile technology. The Oppo Find N3 Flip Smartphone is here to redefine your smartphone experience. The Oppo Find N3 Flip Smartphone is not just a phone; it's a technological marvel designed to complement your lifestyle. With its iconic design, brilliant camera system, and innovative features, it's a statement of your style and a gateway to a world of endless possibilities.\r\n\r\n",
+                "specifications": "[{\"key\":\"General\",\"values\":[{\"subKey\":\"In The Box\",\"subValue\":\"Handset, Cable, Charger, Sim Ejector Pin, Protective Case, User Manual, Tips, and VIP Card\"},{\"subKey\":\"Model Number\",\"subValue\":\"CPH2519\"},{\"subKey\":\"Model Name\",\"subValue\":\"Find N3 Flip\"},{\"subKey\":\"Color\",\"subValue\":\"Cream Gold\"},{\"subKey\":\"SIM Type\",\"subValue\":\"Dual Sim\"},{\"subKey\":\"Sound Enhancements\",\"subValue\":\"Dolby Atmos, Integrated Audio Decoder Chip, 1115 and 1012 Ultra Linear Speaker\"},{\"subKey\":\"SAR Value\",\"subValue\":\"Head: < 2.0 W/kg, Body: < 2.0 W/kg\"}]},{\"key\":\"Display Features\",\"values\":[{\"subKey\":\"Display Size\",\"subValue\":\"17.27 cm (6.8 inch)\"},{\"subKey\":\"Resolution\",\"subValue\":\"2520 x 1080 Pixels\"},{\"subKey\":\"Resolution Type\",\"subValue\":\"Full HD\"},{\"subKey\":\"GPU\",\"subValue\":\"ARM Immortalis-G715 MC11\"},{\"subKey\":\"Display Type\",\"subValue\":\"Full HD AMOLED Display\"},{\"subKey\":\"Display Colors\",\"subValue\":\"1.07 Billion Colors (10 Bit)\"},{\"subKey\":\"Other Display Features\",\"subValue\":\"Refresh Rate: 1 Hz - 120 Hz, LTPO, Flat 2D Screen Curvature, 10 Touch Points, Maximum Touch Sampling Rate: 240 Hz, Screen-to-Body Ratio: 85.9%, Color Saturation: 97%, Aspect Ratio: 21:9, Color Gamut: (Vivid Mode: 97% NTSC/100% DCI-P3, Natural Mode: 70% NTSC/100% sRGB), Contrast Ratio: (Static - 1,000,000:1, Dynamic - 2,000,000:1), Supports Sunshine Screen, Brightness: 500 Nits, 1,200 Nits (HBM), HDR: 1,600 Nits, Dimming Level: 8192, Dimming Level and HBM Range: 10239, Oleophobic Coating on Screen, Dimming Mode: 70 Nits: PWM, 1,440 Hz, > 70 Nits: DC\"}]},{\"key\":\"Connectivity Features\",\"values\":[{\"subKey\":\"Network Type\",\"subValue\":\"5G, 4G, 3G, 2G\"},{\"subKey\":\"Supported Networks\",\"subValue\":\"5G, 4G LTE, WCDMA, GSM\"},{\"subKey\":\"Internet Connectivity\",\"subValue\":\"5G, 4G, 3G, GPRS, EDGE, Wi-Fi\"},{\"subKey\":\"Wi-Fi Version\",\"subValue\":\"802.11 a/b/g/n/ac/ax/be (Wi-Fi 7 (802.11be), Wi-Fi 6 (802.11ax), Wi-Fi 5 (802.11ac), 802.11a/b/g/n (WLAN 2.4 GHz | WLAN 5.1 GHz | WLAN 5.8 GHz), WLAN Display, WLAN Tethering, Overlay Networks: Wi-Fi 2.4 GHz, 2x2 + Wi-Fi 5 GHz, 2x2, Wi-Fi 5 GHz, 160 MHz, 2x2 MIMO)\"}]}]"
+            }
+        },
+        "pdfee7afcf26": {
+            "_id": "pdfee7afcf26",
+            "product_name": "Google Pixel 7 Pro",
+            "category": "Electronics",
+            "cardType": "item",
+            "details": {
+                "product_FullName": "Google Pixel 7 Pro (Hazel, 128 GB)  (12 GB RAM)",
+                "brand": "Google",
+                "types": "Mobile",
+                "images": [
+                    "pdfee7afcf26_-original-imaggsuev7mpcufk.jpeg",
+                    "pdfee7afcf26_-original-imaggsue8rdvyapk.jpeg",
+                    "pdfee7afcf26_-original-imaggsuexwkr2yqr.jpeg",
+                    "pdfee7afcf26_-original-imaggsuectgvgyhg.jpeg",
+                    "pdfee7afcf26_-original-imaggsueh4b26fj7.jpeg"
+                ],
+                "price": "85000",
+                "discount": "23",
+                "highlights": "[\"12 GB RAM | 128 GB ROM\",\"17.02 cm (6.7 inch) Quad HD+ Display\",\"50MP + 48MP + 12MP | 10.8MP Front Camera\",\"4926 mAh Battery\"]",
+                "description": "Experience smooth operation and brilliant user interface with the 5G-ready Google Pixel 7 Pro smartphone that comes loaded with breathtaking features. Google Tensor G2 makes Pixel 7 faster, more efficient, and more secure and it delivers even more helpful features. Furthermore, the Pixel 7 Pro triple rear camera system includes a 5x telephoto lens. The upgraded ultrawide lens with autofocus now powers Macro Focus. Also, the Pixel 7 Pro has a 30x Super Res Zoom for high-quality photos from far away. Moreover, the Pixel 7 Pro's 17.018 cm (6.7) Smooth Display makes everything stunning and immersive. It intelligently adjusts up to 120 Hz for smoother, more responsive performance.\r\n\r\n",
+                "specifications": "[{\"key\":\"General\",\"values\":[{\"subKey\":\"General\",\"subValue\":\"Handset, 1 M USB-C to USB-C Cable (USB 2.0), Quick Start Guide, Quick Switch Adaptor, Sim Tool\"},{\"subKey\":\"Model Number\",\"subValue\":\"GP4BC\"},{\"subKey\":\"Color\",\"subValue\":\"Hazel\"},{\"subKey\":\"SIM Type\",\"subValue\":\"Dual Sim(Nano + eSIM)\"},{\"subKey\":\"Sound Enhancements\",\"subValue\":\"Stereo Speakers, Three Microphones, Noise Suppression\"}]},{\"key\":\"Display Features\",\"values\":[{\"subKey\":\"Display Size\",\"subValue\":\"17.02 cm (6.7 inch)\"},{\"subKey\":\"Resolution\",\"subValue\":\"3120 x 1440 Pixels\"},{\"subKey\":\"Display Type\",\"subValue\":\"Quad HD+ LTPO OLED Display\"},{\"subKey\":\"Other Display Features\",\"subValue\":\"Smooth Display (Upto 120 Hz), Corning Gorilla Glass Victus Cover Glass, Always-on Display with at a Glance and Now Playing, Upto 1000 nits (HDR) and Upto 1500 nits (Peak brightness), Contrast Ratio: >1,000,000:1, HDR Support\"}]},{\"key\":\"Os & Processor Features\",\"values\":[{\"subKey\":\"Operating System\",\"subValue\":\"Android 13\"},{\"subKey\":\"Processor Brand\",\"subValue\":\"Google\"},{\"subKey\":\"Processor Type\",\"subValue\":\"Google Tensor G2\"},{\"subKey\":\"Operating Frequency\",\"subValue\":\"2G GSM/EDGE: Quad Band (850/900/1800/1900 MHz), 3G UMTS/HSPA+/HSDPA: B1/B2/B4/B5/B6/B8/B19, 4G LTE: B1/B2/B3/B4/B5/B7/B8/B12/B13/B14/B17/B18/B19/B20/B25/B26/B28/B29/B30/B32/B38/B39/B40/B41/B46/B48/B66/B71, 5G sub-62: n1/n2/n3/n5/n7/n8/n12/n14/n20/n25/n28/n30/n38/n40/n41/n48/n66/n71/n75/n76/n77/n78\"}]}]"
+            }
+        },
+        "pddad14bee6c": {
+            "_id": "pddad14bee6c",
+            "product_name": "Galaxy S23 Ultra",
+            "category": "Electronics",
+            "cardType": "item",
+            "details": {
+                "product_FullName": "SAMSUNG Galaxy S23 Ultra 5G (Green, 256 GB)  (12 GB RAM)",
+                "brand": "Samsung",
+                "types": "Mobile",
+                "images": [
+                    "pddad14bee6c_-original-imagzm8pvabtmeys.jpeg",
+                    "pddad14bee6c_-original-imagzm8pyjbrzjxs.jpeg",
+                    "pddad14bee6c_-original-imagmg6gyhzhh3fb.jpeg",
+                    "pddad14bee6c_-original-imagmg6gynphgrh8.jpeg",
+                    "pddad14bee6c_-original-imagmg6gvnxechaf.jpeg"
+                ],
+                "price": "150000",
+                "discount": "26",
+                "highlights": "[\"12 GB RAM | 256 GB ROM\",\"17.27 cm (6.8 inch) Quad HD+ Display\",\"200MP + 10MP + 12MP + 10MP | 12MP Front Camera\",\"Qualcomm Snapdragon 8 Gen 2 Processor\"]",
+                "description": "Get a smartphone for yourself that can detect your moods and react appropriately. The Samsung Galaxy Ultra's potent processor and advanced camera sensor can handle low light and noise reduction. The phone's Snapdragon 8 Gen 2 processor, which also provides a long battery life to carry you through even the busiest days, also enables quick gaming and video streaming. You can also launch Expert RAW to take high-resolution RAW photos that are vivid and packed with information. Moreover, Dynamic AMOLED 2X offers clear, brilliant details in both bright and low-light conditions. Additionally, to smooth up gaming and save power, the refresh rate is automatically optimised with 120 Hz technology.\r\n\r\n",
+                "specifications": "[{\"key\":\"General\",\"values\":[{\"subKey\":\"In The Box\",\"subValue\":\"Handset, Sim Ejection Pin, USB Cable, Manual, Pen\"},{\"subKey\":\"Model Number\",\"subValue\":\"SM-S918BZGCINS\"},{\"subKey\":\"Color\",\"subValue\":\"Green\"},{\"subKey\":\"SIM Type\",\"subValue\":\"Dual Sim\"}]},{\"key\":\"Display Features\",\"values\":[{\"subKey\":\"Display Size \",\"subValue\":\"17.27 cm (6.8 inch)\"},{\"subKey\":\"Resolution \",\"subValue\":\"3088 x 1440 PIxels\"},{\"subKey\":\"Resolution Type \",\"subValue\":\"Quad HD+ \"},{\"subKey\":\"GPU\",\"subValue\":\"Qualcomm Adreno 740\"}]},{\"key\":\"Os & Processor Features\",\"values\":[{\"subKey\":\"Operating System\",\"subValue\":\"Android 13 \"},{\"subKey\":\"Processor Brand \",\"subValue\":\"Snapdragon \"},{\"subKey\":\"Processor Type \",\"subValue\":\"Qualcomm Snapdragon 8 Gen 2 \"},{\"subKey\":\"Primary Clock Speed \",\"subValue\":\"3.36 GHz\"},{\"subKey\":\"Secondary Clock Speed \",\"subValue\":\"3.36 GHz\"}]}]"
+            }
+        },
+        "pd5f7eeeaefc": {
+            "_id": "pd5f7eeeaefc",
+            "product_name": "OnePlus Buds 3 ",
+            "category": "Electronics",
+            "cardType": "item",
+            "details": {
+                "product_FullName": "OnePlus Buds 3 TWS, in Ear Earbuds with Sliding Volume Control and 49dB ANC Bluetooth Gaming Headset  (Metallic Gray IN, True Wireless)",
+                "brand": "OnePluse",
+                "types": "Headphone",
+                "images": [
+                    "pd5f7eeeaefc_buds-3-e509a-oneplus-original-imagwynyrx5gc5ph.jpg",
+                    "pd5f7eeeaefc_buds-3-e509a-oneplus-original-imagwynyxjpdrcf8.jpg",
+                    "pd5f7eeeaefc_buds-3-e509a-oneplus-original-imagwynydtkkwgxg.jpg",
+                    "pd5f7eeeaefc_buds-3-e509a-oneplus-original-imagwynyzms78bsg.jpg"
+                ],
+                "price": "6500",
+                "discount": "15",
+                "highlights": "[\"[Best-in-class Sound Quality]: 10.4mm+6mm dynamic dual driver, LHDC5.0 Bluetooth CODEC and high resolution certification makes the product best in its sound quality with deeper bass, delicate treble and clear vocals\",\"[Sliding Volume Control]: Slide on the surface of touch area of buds to adjust the volume.Sliding up increases the volume, while sliding down decreases the volume\",\"[49dB Adaptive Nosie Cancellation]: Advanced noise-cancelling technology,coupled with a high-performance chip,elevates the depth of noise cancellation upto 49dB.This reduces noise and blocks out chaos and allows users to enjoy music immersively\",\"[Dual Connection]:It can simulatenously connect to 2 devices such as Andriod/iOS/Windows smartphone, tablets or computers allowing for quick and seamless device switching\"]",
+                "description": "OnePlus Buds 3 comes with Best in Class Sound Quality with 10.4mm + 6mm dynamic dual driver. It has a sliding volume control and comes with a 49dB adaptive noise cancellation technology. It has 3-built in microphones on each earbuds which ensures crystal clear calls. OnePlus Buds 3 can simultaneosuly connect to two devices (supports dual connection) and comes with IP55 rating (dust & water resistance). With 10mins of fast charging you can get 7hrs of playback time with total music playback upto 44hrs with ANC off. It supports Bluetooth 5.3 and has a 94ms ultra-low latency.\r\n",
+                "specifications": "[{\"key\":\"General\",\"values\":[{\"subKey\":\"Model Name \",\"subValue\":\"Buds 3 E509A \"},{\"subKey\":\"Color \",\"subValue\":\"Metallic Gray \"},{\"subKey\":\"Headphone Type \",\"subValue\":\"True Wireless \"},{\"subKey\":\"Sales Package \",\"subValue\":\"1 Pair of Earbuds, Charger Cable, User Guide, Safety and Warranty Card, Red Cable Club Welcome Card, Additional Ear Tips \"}]},{\"key\":\"Warranty\",\"values\":[{\"subKey\":\"Domestic Warranty \",\"subValue\":\"1 Year \"},{\"subKey\":\"Warranty Summary \",\"subValue\":\"1 Year \"},{\"subKey\":\"Covered in Warranty \",\"subValue\":\"Manufacturing Defects \"},{\"subKey\":\"Not Covered in Warranty \",\"subValue\":\"Physical Damages\"}]}]"
+            }
+        },
+        "pdd7f288fb03": {
+            "_id": "pdd7f288fb03",
+            "product_name": "Olive oil",
+            "category": "Grocery",
+            "cardType": "item",
+            "details": {
+                "product_FullName": "Extra Virgin Olive Oil - Good & Gather\u2122",
+                "brand": "",
+                "types": "",
+                "images": [
+                    "pdd7f288fb03_WhatsApp Image 2024-05-25 at 7.51.23 PM(1).jpeg"
+                ],
+                "price": "1750",
+                "discount": "0",
+                "highlights": "[\"16.9oz\",\"Extra virgin \",\"Full-bodied flavor is great for salad, pastas, soups, meats or marinades\"]",
+                "description": "For a versatile ingredient in your kitchen, keep your pantry stocked with Extra Virgin Olive Oil from Good & Gather\u2122. This 100% olive oil has a full-bodied flavor that makes a great accompaniment to a variety of dishes \u2014 let the bold and rich taste complement anything from salads to pastas, meats, soups, marinades and more. The smoke point of 320\u00b0F makes it suitable for a variety of cooking styles, and easy, convenient use.\r\n\r\nEvery product that carries the Good & Gather\u2122 name starts with quality ingredients that deliver great taste, making it easier for you and your family to eat well, every day. We promise you\u2019ll love each bite, or your money back.",
+                "specifications": "[{\"key\":\"General\",\"values\":[{\"subKey\":\"Contains\",\"subValue\":\" Does Not Contain Any of the 9 Major Allergens\"},{\"subKey\":\"Form\",\"subValue\":\"Liquid\"}]},{\"key\":\"\",\"values\":[{\"subKey\":\"\",\"subValue\":\"\"}]}]"
+            }
+        },
+        "pd8117f1569e": {
+            "_id": "pd8117f1569e",
+            "product_name": "Cotton Shorts",
+            "category": "Clothing",
+            "cardType": "item",
+            "details": {
+                "product_FullName": "Relaxed Fit's - Men Cotton Shorts",
+                "brand": "",
+                "types": "",
+                "images": [
+                    "pd8117f1569e_WhatsApp Image 2024-05-25 at 7.51.23 PM.jpeg"
+                ],
+                "price": "560",
+                "discount": "10",
+                "highlights": "[]",
+                "description": "Lightweight champ: The Statement Lounge Shorts are the lightest weight shorts youve ever worn. Its airy, light on body and feel like a flutter in the wind\r\n    For that extra stretch: Made of superior cotton and elastane blend, Lounge Shorts that can go the extra mile Its going to be your go-to shorts be it for a bbq party or a poolside lounge\r\n    High on dye: For enhanced colour retention, Statement Ultra-light Lounge Shorts only use the best grade dyes",
+                "specifications": "[{\"key\":\"General\",\"values\":[{\"subKey\":\"Size\",\"subValue\":\"Regular Fit\"},{\"subKey\":\"Color\",\"subValue\":\"Black\"},{\"subKey\":\"Material\",\"subValue\":\"100% cotton\"}]},{\"key\":\"\",\"values\":[{\"subKey\":\"\",\"subValue\":\"\"}]}]"
+            }
+        },
+        "pde906f9f082": {
+            "_id": "pde906f9f082",
+            "product_name": "Solo Microwave Oven",
+            "category": "Appliance",
+            "cardType": "item",
+            "details": {
+                "product_FullName": "Panasonic 20L Solo Microwave Oven - Black",
+                "brand": "",
+                "types": "AirConditioners",
+                "images": [
+                    "pde906f9f082_WhatsApp Image 2024-05-25 at 7.51.22 PM(1).jpeg"
+                ],
+                "price": "599",
+                "discount": "0",
+                "highlights": "[\"Re-Heat & Defrost: Auto programmed reheat and defrost modes ensure even heating or defrosting of food without compromising on the textures of flavour. \",\"Quick Minute Timer: Monitor cooking with easy to set single minute intervals \",\"Vapor Clean: Keep oven odor free and stain free with the touch of a button \"]",
+                "description": "20L capacity: Suitable for bachelors & small families; power + innovation 800 watts of high power for fast, Even cooking and delicious results ",
+                "specifications": "[{\"key\":\"General\",\"values\":[{\"subKey\":\"Product Dimensions\",\"subValue\":\" \\t34D x 44W x 26H Centimeters\"},{\"subKey\":\"Brand\",\"subValue\":\"Panasonic\"},{\"subKey\":\"Color\",\"subValue\":\"Black\"}]}]"
+            }
+        },
+        "pd53e36fc2ec": {
+            "_id": "pd53e36fc2ec",
+            "product_name": "Front Load Washing Machine",
+            "category": "Appliance",
+            "cardType": "item",
+            "details": {
+                "product_FullName": "LG 6.5 Kg 5 Star Inverter Direct Drive Fully Automatic Front Load Washing Machine Appliance (FHM1065SDW, Steam Wash, In-Built Heater, Touch Panel, Grey) ",
+                "brand": "",
+                "types": "WashingMachine",
+                "images": [
+                    "pd53e36fc2ec_WhatsApp Image 2024-05-25 at 7.51.22 PM.jpeg"
+                ],
+                "price": "24,999",
+                "discount": "20",
+                "highlights": "[\"Fully-automatic front load washing machine with Hygiene Steam/direct-drive technology: Best Wash Quality, Energy and Water efficient \",\"Energy Star rating: 5 Star best in class efficiency; Energy consumption \u2013 0.062 KWh/kg/cycle & Water Consumption: 8.25 L/Kg/Cycle (Please refer BEE label for more information) \"]",
+                "description": "0 Wash Program: Cotton - designed for normally soiled cotton clothes | Cotton Large - provides optimized washing performance for large amount of laundry | Mix - cleans a variety of different fabrics at the same time | Easy Care \u2013for polyamide, acrylic and polyester fabrics | Baby Care \u2013 eliminates allergen | Sportswear - suitable for sportswear such as jogging clothes | Delicate \u2013 suitable for undergarments and delicate fabrics | Wool - suitable for lacy knickers or that silk blouse | Quick 30 - Get express wash for lightly soiled clothes, all in 30 mins* | Rinse + Spin - ideal for cloth diapers or heavily soiled items ",
+                "specifications": "[{\"key\":\"General\",\"values\":[{\"subKey\":\"Product Dimensions\",\"subValue\":\"44D x 60W x 85H Centimeters\"},{\"subKey\":\"Brand\",\"subValue\":\"LG\"},{\"subKey\":\"Capacity\",\"subValue\":\" \\t6.5 Kilograms\"}]}]"
+            }
+        },
+        "pda650cad085": {
+            "_id": "pda650cad085",
+            "product_name": "Ceiling Fan - Remote and BLDC motor",
+            "category": "Appliance",
+            "cardType": "item",
+            "details": {
+                "product_FullName": "Atomberg Renesa Ceiling Fan ",
+                "brand": "",
+                "types": "AirConditioners",
+                "images": [
+                    "pda650cad085_WhatsApp Image 2024-05-25 at 7.51.21 PM(1).jpeg"
+                ],
+                "price": "4999",
+                "discount": "10",
+                "highlights": "[\"Superier air delivary.\",\"sleek design.\",\"65% energy saving.\"]",
+                "description": "Atomberg Renesa+ Energy Efficient Dust Resistant Ceiling Fan with BLDC Motor and Remote",
+                "specifications": "[{\"key\":\"General\",\"values\":[{\"subKey\":\"Sweep Size \",\"subValue\":\"1200mm\"}]}]"
+            }
+        },
+        "pd3e3c02fc26": {
+            "_id": "pd3e3c02fc26",
+            "product_name": "Hunter 90506z Personal Retro USB Fan",
+            "category": "Appliance",
+            "cardType": "item",
+            "details": {
+                "product_FullName": "Hunter 90506z Personal Retro USB Fan, 1 Speed Setting, 70 Degree Tilt Angle, 4\" inch, Brushed Nickel ",
+                "brand": "",
+                "types": "AirConditioners",
+                "images": [
+                    "pd3e3c02fc26_WhatsApp Image 2024-05-25 at 7.51.20 PM(1).jpeg"
+                ],
+                "price": "4186",
+                "discount": "0",
+                "highlights": "[]",
+                "description": "The vintage, 3-speed metal desk fan isn't just a great way to keep you cool in your home office; it's also the best way to add a little retro style to your personal space. Preinstalled screws make it easy to install faster so you are cooling off faster. Keep it stationary for direct cooling or turn on the oscillating feature to maximize the airflow. Buy this portable fan in multiples and put in all the places you need cool airflow.\u200b",
+                "specifications": "[{\"key\":\"General\",\"values\":[{\"subKey\":\"Brand\",\"subValue\":\"Hunter\"},{\"subKey\":\"Power source\",\"subValue\":\"Adapter\"},{\"subKey\":\"Wattage\",\"subValue\":\" 2 watts\"}]}]"
+            }
+        },
+        "pdeded49c0be": {
+            "_id": "pdeded49c0be",
+            "product_name": "Acacia soild wooden bed",
+            "category": "Furniture",
+            "cardType": "item",
+            "details": {
+                "product_FullName": "Nilkamal - Acacia soild wooden bed",
+                "brand": "",
+                "types": "BedRoomFurniture",
+                "images": [
+                    "pdeded49c0be_WhatsApp Image 2024-05-25 at 7.51.19 PM.jpeg"
+                ],
+                "price": "26,999",
+                "discount": "30",
+                "highlights": "[\"Premium Quality Solid Wooden Bed\",\"Robust, Long-Lasting Construction\",\"Easy to assemble, anti-termite body\"]",
+                "description": "A stylish wooden bed with a honey brown wood tone delivering elegance. ",
+                "specifications": "[{\"key\":\"General\",\"values\":[{\"subKey\":\"\",\"subValue\":\"\"}]}]"
+            }
+        },
+        "pd9764a79777": {
+            "_id": "pd9764a79777",
+            "product_name": "LG 7.5 Kg- Wachine Machine",
+            "category": "Appliance",
+            "cardType": "item",
+            "details": {
+                "product_FullName": "LG 7.5 Kg 5 Star Smart Inverter Fully-Automatic Top Load Washing Machine (T75SKMB1Z, Middle Black, TurboDrum | Smart Motion) ",
+                "brand": "",
+                "types": "WashingMachine",
+                "images": [
+                    "pd9764a79777_WhatsApp Image 2024-05-25 at 7.51.20 PM.jpeg"
+                ],
+                "price": "15,000",
+                "discount": "40",
+                "highlights": "[\"Fully-automatic top load washing machine with TurboDrum: Affordable with great wash quality, Easy to use; has both washing and drying functions \",\" Energy Star rating: 5 Star best in class efficiency; Smart Inverter Technology for up to 36 % energy savings; Energy consumption \u2013 0.0082* KWh/kg/cycle & Water Consumption: 14.47 L/Kg/Cycle (Please refer BEE label for more information) \",\" Manufacturer Warranty: 2 years on product and 10 years on motor (T&C) \"]",
+                "description": "Wash Programs: 08 No. of Programs \u2013 Normal: for everyday laundry items made of cotton, linen, and durable synthetics | Gentle : for more fragile items, such as certain sweaters, athletic clothing, undergarments and lingerie, crocheted items | Quick Wash | Strong: for sturdy fabrics such as towels, jeans | Pre-wash+Normal: cold water cycle used for heavily soiled laundry | Aqua reserve: helps in cutting down water wastage | Rinse+: helps to remove any leftover detergent or dirt from your clothes | Tub Clean: keeping your wash drum clean ",
+                "specifications": "[{\"key\":\"General\",\"values\":[{\"subKey\":\"Product dimensions\",\"subValue\":\"56D x 54W x 87H Centimeters\"},{\"subKey\":\"Brand\",\"subValue\":\"LG\"},{\"subKey\":\"Capacity\",\"subValue\":\"7.5 kg\"}]}]"
+            }
+        },
+        "pddf0e617e9a": {
+            "_id": "pddf0e617e9a",
+            "product_name": "Mens Boot shoe - 11",
+            "category": "Clothing",
+            "cardType": "item",
+            "details": {
+                "product_FullName": "Woodland Men's Gb 0433107y15 Ankle Boot ",
+                "brand": "",
+                "types": "",
+                "images": [
+                    "pddf0e617e9a_WhatsApp Image 2024-05-25 at 7.51.16 PM(1).jpeg"
+                ],
+                "price": "2399",
+                "discount": "15",
+                "highlights": "[\"Genuine Leather Boots\",\"size - 11\"]",
+                "description": "A true blend of state of the art craftsmanship with technology to bring comfort to your feet. We are Woodland",
+                "specifications": "[{\"key\":\"General\",\"values\":[{\"subKey\":\" Shaft height \",\"subValue\":\"Calf heigh\"},{\"subKey\":\"Material type\",\"subValue\":\"Leather\"},{\"subKey\":\"Heel type\",\"subValue\":\"Flat\"},{\"subKey\":\"Closure Type\",\"subValue\":\"Layes-up\"}]}]"
+            }
+        },
+        "pd86cbb963dd": {
+            "_id": "pd86cbb963dd",
+            "product_name": "Double Door Refrigerator",
+            "category": "Appliance",
+            "cardType": "item",
+            "details": {
+                "product_FullName": "LG 242 L 3 Star Smart Inverter Frost-Free Double Door Refrigerator (GL-I292RPZX, Shiny Steel, Door Cooling+)",
+                "brand": "",
+                "types": "AirConditioners",
+                "images": [
+                    "pd86cbb963dd_WhatsApp Image 2024-05-25 at 7.51.18 PM(2).jpeg"
+                ],
+                "price": "18,999",
+                "discount": "20",
+                "highlights": "[\"For the products manufactured from Jan 2023, Capacity will be attributed basis the total volume and not the gross volume \",\"Frost-Free Refrigerators less than 300 L : Auto defrost function to prevent ice-build up \",\"Capacity 242 L: Suitable for small families and bachelors I freezer capacity: 61 L, fresh food capacity: 181 L \",\"Star Rating: 3 Star - energy efficiency \"]",
+                "description": "You can enjoy chilled drinks and popsicles during summer by keeping them stocked up in the LG 242 L Frost-free Double-door Refrigerator. Its Smart Inverter Compressor is designed to deliver energy-efficient performance, thus keeping a check on your electricity bills. Also, this refrigerator\u2019s Door Cooling+ feature keeps the food items fresh and drinks chilled while rendering uniform rapid cooling. Moreover, its Multi Air Flow system controls the temperature levels to keep the contents fresh.",
+                "specifications": "[{\"key\":\"General\",\"values\":[{\"subKey\":\"Product Dimensions\",\"subValue\":\"66.9D x 58.5W x 147.5H Centimeters\"},{\"subKey\":\"Brand\",\"subValue\":\"LG\"}]}]"
+            }
+        },
+        "pd709bd1e977": {
+            "_id": "pd709bd1e977",
+            "product_name": "Formal shoe-Black",
+            "category": "Clothing",
+            "cardType": "item",
+            "details": {
+                "product_FullName": "Bata - Lace Up For Men  (Black)",
+                "brand": "",
+                "types": "",
+                "images": [
+                    "pd709bd1e977_WhatsApp Image 2024-05-25 at 7.51.18 PM(1).jpeg",
+                    "pd709bd1e977_images.jpg"
+                ],
+                "price": "800",
+                "discount": "0",
+                "highlights": "[]",
+                "description": "Luxury Formal Shoes Lace up For Men,Especially made from butt portion of leather hide which is the toughest and strongest part.",
+                "specifications": "[{\"key\":\"General\",\"values\":[{\"subKey\":\"Categories\",\"subValue\":\"Formal\"},{\"subKey\":\"Size\",\"subValue\":\"11\"}]}]"
+            }
+        },
+        "pd9bc86be726": {
+            "_id": "pd9bc86be726",
+            "product_name": "Boys White Spider-Man Printed T-shirt",
+            "category": "Clothing",
+            "cardType": "item",
+            "details": {
+                "product_FullName": "Jack & Jones Junior - Boys White Spider-Man Printed T-shirt",
+                "brand": "",
+                "types": "",
+                "images": [
+                    "pd9bc86be726_WhatsApp Image 2024-05-25 at 7.51.17 PM.jpeg"
+                ],
+                "price": "599",
+                "discount": "10",
+                "highlights": "[\"Regular Fit\",\"Round Neck\",\"Cotton\"]",
+                "description": "\r\n    White Tshirt for boys\r\n    Spider-man graphic printed\r\n    Regular length\r\n    Round neck\r\n    Short, regular sleeves\r\n    Knitted cotton fabric\r\n",
+                "specifications": "[{\"key\":\"\",\"values\":[{\"subKey\":\"\",\"subValue\":\"\"}]}]"
+            }
+        },
+
+        "pd981e5e11a1": {
+            "_id": "pd981e5e11a1",
+            "product_name": "Fresh Up 4 Seater",
+            "category": "Furniture",
+            "cardType": "item",
+            "details": {
+                "product_FullName": "Fresh Up 78x36x10 inch Low Floor Seating Polycotton Fabric with 4 Cushions 4 Seater Single Foam Fold Out Sofa Cum Bed  (Finish Color - blue::green Delivery Condition - Pre-assembled)",
+                "brand": "",
+                "types": "SofaBeds",
+                "images": [
+                    "pd981e5e11a1_single-198-12-4-seater-blue-green-chenille-91-4-no-8-scb-rvlv-original-imahyg3fpj7v3xzd.jpeg",
+                    "pd981e5e11a1_single-198-12-4-seater-blue-green-chenille-91-4-no-8-scb-rvlv-original-imahyg3feqbusrs8.jpeg",
+                    "pd981e5e11a1_single-198-12-4-seater-blue-green-chenille-91-4-no-8-scb-rvlv-original-imahyg3fawrghwmw.jpeg",
+                    "pd981e5e11a1_single-198-12-4-seater-blue-green-chenille-91-4-no-8-scb-rvlv-original-imahyg3femzhwrcm.jpeg",
+                    "pd981e5e11a1_single-198-12-4-seater-blue-green-chenille-91-4-no-8-scb-rvlv-original-imahyg3fr4hkahfh.jpeg"
+                ],
+                "price": "14000",
+                "discount": "52",
+                "highlights": "[\"Shape: Rectangle\",\"Mattress Included: Yes\",\"W x H x D: 91.4 cm x 25.4 cm x 198.12 cm (2 ft 11 in x 10 in x 6 ft 6 in)\",\"Seat Capacity: 4 Seater\"]",
+                "description": "Fresh Up is a one stop solution for all your comfort. Our In-house manufacturing and stringent quality control ensure that we deliver the best-in-class product. Our sofa cum bed is thoughtfully designed to suit every space while optimize the small spaces and making it look utmost luxurious. It is trendy, comfortable, lightweight yet sturdy that you can easily maneuver anywhere around in your house. It\u2019s multifunctionality and easy to assemble nature makes it a must have furniture piece at home. The sofa come bed can be placed in your living room, bed room, kids\u2019 room, guestroom, anywhere in your home or office to accommodate a number of guests. Small hostel rooms, studio apartments or bachelor rooms can really save up space with this folding sofa bed. You can binge watch TV shows or movies by converting this sofa into a lounger or quickly fold in into a sleeping bed mattress and snooze away. If you don\u2019t have a bed frame, you can use this as a bed with back support and as an orthopedic mattress. The foldable sofa can also be used as a study on the floor for kids.\r\n",
+                "specifications": "[{\"key\":\"General\",\"values\":[{\"subKey\":\"Brand\",\"subValue\":\"Fresh Up\"},{\"subKey\":\"Bed Size\",\"subValue\":\"Single\"},{\"subKey\":\"Seating Capacity\",\"subValue\":\"4 Seater\"},{\"subKey\":\"Mechanism Type\",\"subValue\":\"Fold Out\"},{\"subKey\":\"Model Series Name\",\"subValue\":\"78x36x10 inch Low Floor Seating Polycotton Fabric with 4 Cushions\"}]},{\"key\":\"Material & Color\",\"values\":[{\"subKey\":\"Upholstery Material\",\"subValue\":\"Fabric\"},{\"subKey\":\"Upholstery Material Subtype\",\"subValue\":\"Chenille\"},{\"subKey\":\"Frame Material\",\"subValue\":\"Foam\"},{\"subKey\":\"Frame Material Subtype\",\"subValue\":\"PU Foam, EPE Foam\"}]}]"
+            }
+        },
+        "pd1752b53a80": {
+            "_id": "pd1752b53a80",
+            "product_name": "Grey Checked Casual ",
+            "category": "Clothing",
+            "cardType": "item",
+            "details": {
+                "product_FullName": "Roadster - Men Grey Checked Casual Sustainable Shirt -L",
+                "brand": "",
+                "types": "",
+                "images": [
+                    "pd1752b53a80_WhatsApp Image 2024-05-25 at 7.51.15 PM.jpeg"
+                ],
+                "price": "699",
+                "discount": "10",
+                "highlights": "[\"Regular Fit\",\"Long Sleeves\",\"82% Cotton,18% Polyester\",\"Tartan Checks\"]",
+                "description": "grey checked casual shirt, has a spread collar, long sleeves, button placket, curved hem, and 1 patch pocket",
+                "specifications": "[{\"key\":\"General\",\"values\":[{\"subKey\":\"\",\"subValue\":\"\"}]}]"
+            }
+        },
+        "pd7c411909be": {
+            "_id": "pd7c411909be",
+            "product_name": "Low Ankle - Hiking shoe - NH100- Size 11",
+            "category": "Clothing",
+            "cardType": "item",
+            "details": {
+                "product_FullName": "Outdoor - Men Lightweight Low Ankle Hiking Shoes Grey - NH100",
+                "brand": "",
+                "types": "",
+                "images": [
+                    "pd7c411909be_WhatsApp Image 2024-05-25 at 7.51.16 PM.jpeg"
+                ],
+                "price": "999",
+                "discount": "20",
+                "highlights": "[\"Cushioned heel with a 6 mm EVA pad suitable for a walking trails\",\"Synthetic toe bumper at the front of the foot to protect you from stones\",\"Removable insoles so you can insert your orthopaedic insoles\"]",
+                "description": "Our hiker-designers designed these NH100 boots for occasional hiking on flatlands, in the forest or on the coast, in dry weather.",
+                "specifications": "[{\"key\":\"General\",\"values\":[{\"subKey\":\"lightweight\",\"subValue\":\"Each boot only weights 357 g in size 43\"},{\"subKey\":\"traction\",\"subValue\":\"Sole component and 3.5 mm crampons that facilitates the removal of mud\"},{\"subKey\":\"size\",\"subValue\":\"11\"}]}]"
+            }
+        },
+        "pd97fb87cf2b": {
+            "_id": "pd97fb87cf2b",
+            "product_name": "Nescafe Classic Coffee Glass Jar, 50g",
+            "category": "Grocery",
+            "cardType": "item",
+            "details": {
+                "product_FullName": "NESCAFE Classic Instant Coffee Powder | Instant Coffee Made with Robusta Beans | Roasted Coffee Beans | 100% Pure Coffee | 50 grams Jar ",
+                "brand": "",
+                "types": "",
+                "images": [
+                    "pd97fb87cf2b_WhatsApp Image 2024-05-25 at 7.53.17 PM.jpeg"
+                ],
+                "price": "175",
+                "discount": "5",
+                "highlights": "[]",
+                "description": "GIVE A FRESH START TO YOUR DAY with a sip of NESCAFE Classic Instant Coffee and let the bold taste with rich aroma of the instant coffee awaken your senses to new opportunities ",
+                "specifications": "[{\"key\":\"General\",\"values\":[{\"subKey\":\"Brand\",\"subValue\":\"Nescafe\"},{\"subKey\":\"net quantity\",\"subValue\":\"50 g\"},{\"subKey\":\"package\",\"subValue\":\"glass bottle\"}]}]"
+            }
+        },
+        "pd6241860a2b": {
+            "_id": "pd6241860a2b",
+            "product_name": "Coconut Palm Sugar",
+            "category": "Grocery",
+            "cardType": "item",
+            "details": {
+                "product_FullName": "Superfruit - Coconut Palm Suagr - 800g",
+                "brand": "",
+                "types": "",
+                "images": [
+                    "pd6241860a2b_WhatsApp Image 2024-05-25 at 7.53.14 PM.jpeg"
+                ],
+                "price": "999",
+                "discount": "0",
+                "highlights": "[\"Premium Coconut Sugar is made from 100% pure coconut flower nectar.\",\" Coconut sugar is a great substitute for white table sugar as it has a low GI of 35-40 \",\" All Natural, Gluten Free, Premium Quality \",\" Zero Preservatives, No Chemicals \"]",
+                "description": "Our Organic Coconut Sugar is the healthier, better alternative to white and brown sugars. With a low glycemic index \u2013 54 as compared to the 63 in regular table sugar \u2013 it contains nutrients like potassium, magnesium, and iron that you will not find in refined white sugar. In addition, it helps maintain gut health, balance electrolytes, and regulate blood sugar. Its subtle caramel flavour also makes for a delicious replacement to white and brown sugars. If you have a sweet tooth and are looking for a healthier sweetener, our Organic Coconut Sugar won\u2019t disappoint.",
+                "specifications": "[{\"key\":\"General\",\"values\":[{\"subKey\":\"Item Form\",\"subValue\":\"Powder\"},{\"subKey\":\"Net quantity\",\"subValue\":\"800g\"}]}]"
+            }
+        },
+        "pd25d2dcee91": {
+            "_id": "pd25d2dcee91",
+            "product_name": " Chili Powder",
+            "category": "Grocery",
+            "cardType": "item",
+            "details": {
+                "product_FullName": "Organic Chili Powder - 2.1oz - Good & Gather\u2122",
+                "brand": "",
+                "types": "",
+                "images": [
+                    "pd25d2dcee91_WhatsApp Image 2024-05-25 at 7.53.03 PM.jpeg"
+                ],
+                "price": "499",
+                "discount": "0",
+                "highlights": "[\"Organic chili powder makes a great spice rack staple\",\"Adds a touch of heat to any dish\",\"Great in marinades, sauces, on meat and more\"]",
+                "description": "Organic Chili Powder from Good & Gather\u2122 is a great way to bring just the right amount of spiciness to all your favorite dishes, making it a must-have on your spice rack if you like spicy food. This ground chili powder instantly kicks up the heat in any dish you add it to. Blend with minced garlic and lemon juice to make a delectable seasoning blend for meat or fish before putting it on the grill, or keep things easy by just sprinkling a little bit on simple dishes like scrambled eggs, avocado toast or mac and cheese. In addition to its flavor, it also adds a nice color and aroma to your food, and it's both organic and non-GMO.",
+                "specifications": "[{\"key\":\"General\",\"values\":[{\"subKey\":\"Ingredients:\",\"subValue\":\"red chili pepper*, cumin*, sea salt, dried garlic*, oregano*, tricalcium phosphate (anti-caking agent). *organic\"},{\"subKey\":\"net quantity\",\"subValue\":\"60 gram\"},{\"subKey\":\"\",\"subValue\":\"\"}]}]"
+            }
+        },
+        "pd778c040312": {
+            "_id": "pd778c040312",
+            "product_name": "Oatmeal Packet",
+            "category": "Grocery",
+            "cardType": "item",
+            "details": {
+                "product_FullName": "Organic Plain Instant Oatmeal Packet - 7.9oz/8ct - Good & Gather\u2122",
+                "brand": "",
+                "types": "",
+                "images": [
+                    "pd778c040312_WhatsApp Image 2024-05-25 at 7.53.03 PM(1).jpeg"
+                ],
+                "price": "299",
+                "discount": "20",
+                "highlights": "[\"Plain oatmeal packets are delicious for breakfast or a snack\",\"Easy to customize with add-ins of your choosing\",\"28g whole grains per serving\"]",
+                "description": "Organic Plain Oatmeal Packets from Good & Gather\u2122 make a great pick when you need a quick and easy bite. These instant oatmeal packets are made with no artificial flavors, artificial sweeteners, synthetic colors or high fructose corn syrup, and the oatmeal's left plain so you can jazz it up however you like \u2014 mix in some nut butter and pumpkin seeds, add chocolate chips and banana slices, or drizzle in some honey and top with blueberries. Each oatmeal packets serves up 28 grams of whole grains in each serving, and they're both low fat for a great fit into your day's eating. An easy on-the-go option, just add water to enjoy this organic oatmeal.",
+                "specifications": "[{\"key\":\"General\",\"values\":[{\"subKey\":\"Features\",\"subValue\":\"No High Fructose Corn Syrup, No Artificial Flavors, Colors or Preservatives\"},{\"subKey\":\"Dietary Needs\",\"subValue\":\"Low Fat, 100 Percent Whole Grain, Non-GMO Project Verified, Organic Certified, Kosher\"},{\"subKey\":\"Net quantity\",\"subValue\":\"250 gram / 7.9 ounces\"}]}]"
+            }
+        },
+        "pdc7cc7fbfcd": {
+            "_id": "pdc7cc7fbfcd",
+            "product_name": "Nilkamal - wardrobe 2 door",
+            "category": "Furniture",
+            "cardType": "item",
+            "details": {
+                "product_FullName": "Home by nilkamal Joyce Engineered Wood 2 Door Wardrobe ",
+                "brand": "",
+                "types": "BedRoomFurniture",
+                "images": [
+                    "pdc7cc7fbfcd_WhatsApp Image 2024-05-25 at 7.53.20 PM.jpeg"
+                ],
+                "price": "27,999",
+                "discount": "70",
+                "highlights": "[\"Primary Material: Engineered Wood\",\"Width x Height: 75 cm x 180 cm (2 ft 5 in x 5 ft 10 in)\",\"Number Of Doors: 2\"]",
+                "description": "You can bring home this spacious wardrobe from Nilkamal to store your clothes and other belongings. It has an external lock to secure your belongings, be it jewellery, documents, or more. You can get plenty of space to store all your belongings in this wardrobe.",
+                "specifications": "[{\"key\":\"General\",\"values\":[{\"subKey\":\"\",\"subValue\":\"\"}]}]"
+            }
+        },
+        "pdd9de388f6b": {
+            "_id": "pdd9de388f6b",
+            "product_name": "Round Dining Table for Dining Room",
+            "category": "Furniture",
+            "cardType": "item",
+            "details": {
+                "product_FullName": "Pooja Art Enterprises Solid Wooden 4 Seater Round Dining Table for Dining Room, Living Room, Hotel & Home, (74.93 H X 80.01 W X 80.01 L CM",
+                "brand": "",
+                "types": "LivingRoomFurniture",
+                "images": [
+                    "pdd9de388f6b_WhatsApp Image 2024-05-25 at 7.53.19 PM(1).jpeg",
+                    "pdd9de388f6b_WhatsApp Image 2024-05-25 at 7.53.19 PM.jpeg"
+                ],
+                "price": "12,999",
+                "discount": "40",
+                "highlights": "[\"The round shape of the table adds a touch of sophistication to any space, while the rich wooden finish complements various interior styles, from traditional to modern. \",\"With dimensions of 74.93 H x 80.01 W x 80.01 L CM, this dining table is perfectly sized for smaller spaces without compromising on style or comfort. \",\" Ideal for dining rooms, living rooms, hotels, or homes, this versatile table serves as a focal point for socializing, meals, and memorable moments. \"]",
+                "description": "Premium Quality: Constructed from high-quality solid wood, this dining table ensures durability and longevity, making it a valuable addition to your furniture collection",
+                "specifications": "[{\"key\":\"General\",\"values\":[{\"subKey\":\"\",\"subValue\":\"\"}]}]"
+            }
+        },
+        "pda46dabffc9": {
+            "_id": "pda46dabffc9",
+            "product_name": "Philips-GC1905",
+            "category": "Appliance",
+            "cardType": "item",
+            "details": {
+                "product_FullName": "Philips GC1905 Steam Iron, 1300 W",
+                "brand": "",
+                "types": "AirConditioners",
+                "images": [
+                    "pda46dabffc9_WhatsApp Image 2024-05-25 at 7.53.18 PM.jpeg",
+                    "pda46dabffc9_WhatsApp Image 2024-05-25 at 7.53.16 PM.jpeg",
+                    "pda46dabffc9_WhatsApp Image 2024-05-25 at 7.53.06 PM.jpeg"
+                ],
+                "price": "1,799",
+                "discount": "10",
+                "highlights": "[\"Color - Blue and White\",\"Water Tank Capacity (ml)  - 180 ml\"]",
+                "description": "Save time on household chores while you use Philips GC1905 iron which is built to perfection so as to give you a quick ironing experience.",
+                "specifications": "[{\"key\":\"General\",\"values\":[{\"subKey\":\"Brand\",\"subValue\":\"philips\"},{\"subKey\":\"type\",\"subValue\":\"steam\"},{\"subKey\":\"model\",\"subValue\":\"GC1905\"}]}]"
+
+            }
+        }
+    }
+}

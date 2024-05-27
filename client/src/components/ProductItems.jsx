@@ -21,7 +21,13 @@ import axios from 'axios';
 // import ProCarousel from './carosel/ProCarousel';
 
 import Carousel from './carousel/Carousel';
-import ps5 from '../assets/CardItems/Electronic/ps5.png';
+
+import { useData } from './ProductData';
+import { categorizeCards } from '../utils/categorizeCards';
+
+
+
+
 
 const SofaImages = [Sofa1, Sofa2, Sofa3, Sofa4, Sofa5, Sofa6];
 const PotImages = [Pot1, Pot2, Pot3, Pot4, Pot5, Pot6];
@@ -29,88 +35,98 @@ const PotImages = [Pot1, Pot2, Pot3, Pot4, Pot5, Pot6];
 export default function ProductItems() {
 
 
+   
 
+  
   const [cards, setCards] = useState([]);
-
-
+  
+  
   // to fetch from backend
+  const { data,error } = useData();
   useEffect(() => {
-    const fetchData = async () => {
-      try {
-        const response = await axios.get('http://localhost:5000/api/data');
-        const cardsArray = Object.values(response.data);
-        setCards(cardsArray);
-      } catch (error) {
-        console.error('Error fetching data:', error);
-      }
-    };
-
-    fetchData();
-  }, []);
-
-
-
-
-  // Separate Ad and item cards
- const adCards = {};
-const itemCards = {};
-for (const key in cards) {
-  if (cards.hasOwnProperty(key)) {
-    const card = cards[key];
-    if (card.cardType === 'Ad') {
-      adCards[key] = card;
-    } else if (card.cardType === 'item') {
-      itemCards[key] = card;
+    if (error){
+      console.log(error);
     }
-  }
-}
+    setCards(data);
+    console.log(data);
+  }, [data]);
 
-// Render AdCards
-const renderAdCards = (adCards) => {
-  return Object.keys(adCards).map((key) => {
-    const { img, content, From, To } = adCards[key];
-    return <AdCard key={key} bgGradientFrom={From} bgGradientTo={To} imageSrc={img} content={content} />;
+  // console.log(cards);
+
+  
+  
+  
+  // Separate Ad and item cards
+const {adCards,itemCards,categories}=categorizeCards(cards)
+// console.log(categories);
+    
+
+
+    // Render AdCardss for a specific category
+const renderAdCards = (adCards, category) => {
+  // console.log(category);
+  // console.log(adCards);
+  const filteredAdCards = Object.values(adCards).filter(card => card.category === category);
+  
+  return filteredAdCards.map((card) => {
+    const { img, content, From, To } = card;
+    return <AdCard key={card.id} bgGradientFrom={From} bgGradientTo={To} imageSrc={img} content={content} category={category} />;
   });
 };
 
-// Render ItemCards
-const renderItemCards = (itemCards) => {
-  return Object.keys(itemCards).map((key) => {
-    const { img, content, id } = itemCards[key];
-    return <Card key={key} imageSrc={img} content={content} id={id} />;
+    
+    // Render ItemCards for a specific category
+    const renderItemCards = (itemCards, category) => {
+      const filteredItemCards = Object.values(itemCards).filter(card => card.category === category);
+      return filteredItemCards.map((card) => {
+    const { _id, product_name, details } = card;
+    return <Card key={_id} item={{ _id, product_name, details }} />;
   });
 };
 
 
-  return (
-    <div>
+return (
+  <div className='mx-0 md:mx-12'>
       <div className='mx-5 md:mx-0 '> {/* Added margin on mobile */}
         <div className='md:flex w-full'>
           <div className='w-full md:w-[30%] md:mr-4'> {/* Adjusted width and added margin right for spacing */}
-            {renderAdCards(adCards)}
+            {renderAdCards(adCards,"Electronics")}
           </div>
           <div className=' w-full md:w-[70%] my-auto  '>
             <Carousel>
-              {renderItemCards(itemCards)}
+              {renderItemCards(itemCards,"Electronics")}
             </Carousel>
           </div>
 
         </div>
-        <CollectionsBar Images={SofaImages} Text={"Sofa and Cusions"} Offer={"20"} />
+        <CollectionsBar Images={SofaImages} Text={"Sofa and Cusions"} root={"SofaBeds"} Offer={"20"} Category = {'furniture'} />
       </div>
       <div className='mx-5 md:mx-0 '> {/* Added margin on mobile */}
         <div className='md:flex w-full'>
           <div className=' w-full md:w-[70%] my-auto  '>
             <Carousel>
-              {renderItemCards(itemCards)}
+              {renderItemCards(itemCards,"Appliance")}
             </Carousel>
           </div>
           <div className='w-full md:w-[30%] md:mr-4'> {/* Adjusted width and added margin right for spacing */}
-            {renderAdCards(adCards)}
+            {renderAdCards(adCards,"Appliance")}
           </div>
 
         </div>
-        <CollectionsBar Images = {PotImages} Text = {"Flower Pots"} Offer = {"40"}/>
+        <CollectionsBar Images = {PotImages} root={"FlowerPots"} Text = {"Flower Pots"} Offer = {"40"} Category = {'electronic'}/>
+      </div>
+      <div className='mx-5 md:mx-0 '> {/* Added margin on mobile */}
+        <div className='md:flex w-full'>
+          <div className='w-full md:w-[30%] md:mr-4'> {/* Adjusted width and added margin right for spacing */}
+            {renderAdCards(adCards,"Clothing")}
+          </div>
+          <div className=' w-full md:w-[70%] my-auto  '>
+            <Carousel>
+              {renderItemCards(itemCards,"Clothing")}
+            </Carousel>
+          </div>
+
+        </div>
       </div>
   
 

@@ -1,0 +1,53 @@
+.OrderItem{
+    width: 80%;
+    height : 240px;
+    border: 1px solid grey;
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+    justify-content: space-around
+
+}
+
+.OrderItem-Images{
+    width: 200px;
+    height: 200px;
+    object-fit: contain;
+}
+
+.OrderItem-Details{
+    width:80%;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    padding-left: 20px;
+    margin:0px 2rem  ;
+    border-left: solid;
+    
+    
+}
+
+.OrderItem-Details h1{
+    font-size: 1.5em;
+    font-size: 700;
+    color: #341466;
+}
+.OrderItem-Details h2{
+    font-size: 1em;
+    font-size: 400;
+    font-style: italic;
+}
+.OrderItem-Details h3{
+    font-size: 0.9em;
+    font-size: 400;
+}
+
+.OrderItem-Details h4{
+    font-size: 1em;
+    font-size: 700;
+}
+.OrderItem-Details h5{
+    font-size: 1.2em;
+    font-size: 900;
+}

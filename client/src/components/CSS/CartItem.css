@@ -1,0 +1,91 @@
+.CartItem{
+    width: 100%;
+    border : 2px solid grey;
+    height: 230px;
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+    padding-left: 20px;
+}
+
+.CartItem-Image{
+    height:200px;
+    width:200px;
+    object-fit: contain;
+}
+
+.CartItem-Details{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    width: 75%;
+    padding-right: 15px ;
+    padding-left: 40px;
+}
+
+.CartItem-Details h1{
+    font-size: 1.3em;
+    font-weight: 600;
+    color:#341466;
+}
+.CartItem-Details h2{
+    font-size: 1em;
+    font-weight: 600;
+    font-style: italic;
+   
+}
+.CartItem-Details h3{
+    font-size: 0.9em;
+    font-weight: 400;
+}
+.CartItem-Details h4{
+    font-size: 0.9em;
+    font-weight: 900;
+}
+.CartItem-Details h5{
+    font-size: 1.5em;
+    font-weight: 700;
+}
+
+.CartItem-Modify{
+    display: flex;
+    flex-direction: row;
+    width: 20%;
+    justify-content: space-around;
+}
+
+.CartItem-Price{
+    display: flex;
+    flex-direction: column;
+    width: calc(15%);
+    justify-content:space-around;
+    align-items: center;
+    border-left: 2px solid grey;
+}
+
+.CartItem-AddorRemove{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    justify-content: space-around;
+}
+
+.CartItem-Price h1{
+    font-size: 1.7em;
+    color: #341466;
+    font-weight: 600;
+}
+
+.FiMinusCircle , .FiPlusCircle{
+    font-size: 1.5em;
+}
+
+.AiOutlineDelete{
+    font-size: 2em;
+    color: #341466;
+}
+
+.FaRegHeart{
+    font-size: 1.7em;
+    color: #341466;
+}
